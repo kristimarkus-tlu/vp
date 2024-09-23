@@ -1,0 +1,28 @@
+{
+  "name": "vp1",
+  "version": "1.0.0",
+  "description": "Veebiprogrammeerimise express.js rakendus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kristimarkus-tlu@github.com/kristimarkus-tlu/vp.git"
+  },
+  "keywords": [
+    "Veebiprogrammeerimine",
+    "Node.js",
+    "Tallinna",
+    "Ülikool"
+  ],
+  "author": "Kristi Markus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristimarkus-tlu/vp/issues"
+  },
+  "homepage": "https://github.com/kristimarkus-tlu/vp#readme",
+  "dependencies": {
+    "express": "~4.16.1"
+  }
+}
